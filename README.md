@@ -1,5 +1,5 @@
 # Traffic-Sign-Recognition
-Deep learning model and image processing function to detect traffoc sign recognition which helps self-driving cars
+Deep learning model and image processing function to detect traffic sign which helps the self-driving cars
 
 
 We aim to address detection and recognition of traffic signs. To
